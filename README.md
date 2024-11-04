@@ -1,2 +1,2 @@
-# deveops_tasks
+# devops_tasks
 Python for devops
